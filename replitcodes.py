@@ -103,7 +103,7 @@ def othertwomachines():
   print("oh! i see you want to buy other machines!")
   print("can we start with the price of the thermal machine? let's go :)!!")
   temperature = input()
-  print("can we now do the thermal machine's price, please?")
+  print("can we now do the temperature machine's price, please?")
   thermal = input()
   print("i see, the temperature machine's price is 15,000 and the thermal machine is 16,500")
   print("i will now calculate the total price, then i will discount :))")
